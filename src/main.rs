@@ -7,7 +7,7 @@ mod snake;
 
 use piston_window::types::Color;
 use piston_window::*;
-use crate::draw::{to_coord, to_coord_u32};
+use crate::draw::to_coord_u32;
 use crate::game::Game;
 
 
