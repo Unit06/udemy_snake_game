@@ -6,3 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+#piston_window = "0.108.0"   #для визуальных эффектов и гуи
+rand = "0.7.3"              #для рандомных чисел
+
+piston_window = "0.124.0"   #для визуальных эффектов и гуи
+#rand = "0.8.5"              #для рандомных чисел
